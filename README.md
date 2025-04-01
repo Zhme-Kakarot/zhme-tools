@@ -2,6 +2,7 @@
 Keeping a stash of some of the tools I have made or use regularly for exploitation.
 
 ## Ghost Arbitrary File Read Exploit (CVE-2023-40028)
+Date: 3/31/2025
 [0xDTC exploit of CVE-2023-40028](https://github.com/0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028/blob/master/CVE-2023-40028)
 
 I had trouble getting this to work, but that was almost certainly a skill issue. I had to extract the general idea from this to
